@@ -6,6 +6,7 @@ public class DataTypes {
         for (int x : numbers) {
             s += x;
         }
+        //test
         return s;
     }
 }
